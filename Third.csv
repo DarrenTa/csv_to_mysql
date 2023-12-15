@@ -1,9 +1,9 @@
 Payment ID,From,to,Date,amount,Notes,Order
-9,Barry,Operations,12/17/23,23.42,purchase,10
-10,Operations,UPS,12/17/23,-32.11,shipping,
-11,Operations,Darren,12/17/23,-500,vendor payment,
-12,Samantha,Operations,12/17/23,323.86,purchase,11
-13,Tabatha,Operations,12/17/23,672.11,purchase,12
-14,Rocky,Operations,12/17/23,594.11,purchase,13
-15,Pat,Operations,12/17/23,347.19,purchase,14
-16,Operations,supplier,12/18/23,-312.73,supplies,
+9,Barry,Operations,20231217,23.42,purchase,10
+10,Operations,UPS,20231217,-32.11,shipping,
+11,Operations,Darren,20231217,-500,vendor payment,
+12,Samantha,Operations,20231217,323.86,purchase,11
+13,Tabatha,Operations,20231217,672.11,purchase,12
+14,Rocky,Operations,20231217,594.11,purchase,13
+15,Pat,Operations,20231217,347.19,purchase,14
+16,Operations,supplier,20231218,-312.73,supplies,

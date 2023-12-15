@@ -1,6 +1,6 @@
 Payment ID,From,to,Date,amount,Notes,Order
-1,Peter,Operations,12/12/23,520.03,loan,
-2,Operations,Paul,12/14/23,-520.03,Payment,
-3,Mary,Operations,12/15/23,95.42,purchase,5
-4,Todd,Operations,12/15/23,15.32,purchase,6
-5,Operations,UPS,12/16/23,-10.2,shipping,
+1,Peter,Operations,20231212,520.03,loan,
+2,Operations,Paul,20231214,-520.03,Payment,
+3,Mary,Operations,20231215,95.42,purchase,5
+4,Todd,Operations,20231215,15.32,purchase,6
+5,Operations,UPS,20231216,-10.2,shipping,
