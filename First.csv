@@ -3,4 +3,4 @@ Payment ID,From,to,Date,amount,Notes,Order
 2,Operations,Paul,12/14/23,-520.03,Payment,
 3,Mary,Operations,12/15/23,95.42,purchase,5
 4,Todd,Operations,12/15/23,15.32,purchase,6
-5,Operations,UPS,12/16/23,10.2,shipping,
+5,Operations,UPS,12/16/23,-10.2,shipping,
