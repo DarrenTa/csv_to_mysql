@@ -6,5 +6,5 @@ This script is intended to be used in two parts. First, a command is run that im
 To use this repository on most linux machines first create a virtual environment
 
 ```bash
-./python -m venv ./venv
+python -m venv ./venv
 ```
