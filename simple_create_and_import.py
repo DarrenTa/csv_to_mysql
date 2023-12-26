@@ -28,7 +28,7 @@ def return_type(fieldname):
 		return "BLOB"
 	else:
 		print("Response not understood")
-		return_type(fieldname)
+		return return_type(fieldname)
 
 
 
