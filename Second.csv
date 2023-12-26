@@ -1,4 +1,4 @@
-Payment ID,From,to,Date,amount,Notes,Order
+paymentID,payfrom,payto,date,amount,notes,ordernum
 5,Operations,UPS,20231216,-10.2,shipping,
 6,Alice,Operations,20231216,123.15,purchase,7
 7,Betty,Operations,20231216,86.12,purchase,8

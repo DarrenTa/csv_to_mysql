@@ -1,4 +1,4 @@
-Payment ID,From,to,Date,amount,Notes,Order
+paymentID,payfrom,payto,date,amount,notes,ordernum
 1,Peter,Operations,20231212,520.03,loan,
 2,Operations,Paul,20231214,-520.03,Payment,
 3,Mary,Operations,20231215,95.42,purchase,5
